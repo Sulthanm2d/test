@@ -455,3 +455,4 @@ tuple_angka = (1,2,3,4,5,6,7,8,9,10)
 print(tuple(map(lambda angka: angka**2, tuple_angka)))
 print(tuple(filter(lambda angka: angka%2 !=0, tuple_angka)))
 
+tes
